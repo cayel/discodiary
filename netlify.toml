@@ -7,3 +7,21 @@
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   HUGO_EXTENDED = "true"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.140.1"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+  HUGO_EXTENDED = "true"
+
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.140.1"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+  HUGO_EXTENDED = "true"
+
+[context.next.environment]
+  HUGO_VERSION = "0.140.1"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+  HUGO_EXTENDED = "true"
