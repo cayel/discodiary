@@ -1,6 +1,6 @@
 +++
 date = '2024-12-30T21:50:51+01:00'
-draft = true
+draft = false
 title = 'Beth Gibbons - Lives Outgrown - 2024'
 categories = ['Top 2024']
 tags = ['Alternative Rock', 'Indie Rock' ]

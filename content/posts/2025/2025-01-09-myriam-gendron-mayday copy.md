@@ -1,6 +1,6 @@
 +++
 date = '2025-01-09T22:10:03+01:00'
-draft = true
+draft = false
 title = 'Myriam Gendron - Mayday - 2024'
 categories = ['Top 2024']
 tags = ['Folk']

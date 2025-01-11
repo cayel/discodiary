@@ -1,6 +1,6 @@
 +++
 date = '2025-01-10T22:10:03+01:00'
-draft = true
+draft = false
 title = 'God Is An Astronaut - All Is Violent, All Is bright - 2005'
 categories = ['Discovery']
 tags = ['Post Rock', 'Ambient']

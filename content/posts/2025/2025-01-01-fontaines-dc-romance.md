@@ -1,6 +1,6 @@
 +++
 date = '2025-01-01T18:50:17+01:00'
-draft = true
+draft = false
 title = 'Fontaines DC - Romance - 2024'
 categories = ['Top 2024']
 tags = ['Indie Rock', 'Post Punk']

@@ -1,6 +1,6 @@
 +++
 date = '2025-01-06T22:24:03+01:00'
-draft = true
+draft = false
 title = 'Nick Cave - Wild God - 2024'
 categories = ['Top 2024']
 tags = ['Alternative Rock']

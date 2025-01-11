@@ -1,6 +1,6 @@
 +++
 date = '2024-12-28T12:21:53+01:00'
-draft = true
+draft = false
 title = 'Psychic TV - A Pagan Day - 1984'
 categories = [ 'Discovery']
 tags = ['Dark Folk', 'New Wave', 'Experimental']

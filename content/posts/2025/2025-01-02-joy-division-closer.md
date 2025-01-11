@@ -1,6 +1,6 @@
 +++
 date = '2025-01-02T22:48:45+01:00'
-draft = true
+draft = false
 title = 'Joy Division - Closer - 1980'
 categories = ['Les 100']
 tags = ['New Wave', 'Post Punk' ]
