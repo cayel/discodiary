@@ -13,6 +13,14 @@ links:
     description: 
     website: https://post-punk.com/
     image: https://post-punk.com/wp-content/uploads/2020/04/postpunkglow-1.png
+  - title: Section 26
+    description: pop moderne since 1991
+    website: https://section-26.fr/
+    image: https://section-26.fr/wp-content/uploads/2024/02/s26_logo_2024_SITE_ok.jpg
+  - title : Addict Culture
+    description : 
+    website : https://addict-culture.com/
+    image : https://addict-culture.com/wp-content/uploads/2023/02/banniere-addict-culture-jour.png
 menu:
     main: 
         weight: -50
