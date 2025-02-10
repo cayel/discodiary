@@ -178,4 +178,6 @@ lineNos = true
 lineNumbersInTable = true
 tabWidth = 4
 
-  
+[services]
+  [services.googleAnalytics]
+    id = 'G-KGQNDG4JYS'
