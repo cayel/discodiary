@@ -1,6 +1,7 @@
 languageCode = 'fr'
 title = 'Disco Diary'
 theme = 'hugo-theme-stack'
+enableRobotsTXT = true
 
 [pagination]
 pagerSize = 5
