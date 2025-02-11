@@ -18,7 +18,7 @@ Pour organiser tout cela, les disques sont enregistrés dans des catégories pr�
 - **Les 100** : Mes 100 disques préférés de tous les temps
 - **Top xxxx** : Sélections de disques pour une année, une période, un thème (par exemple **Top 2024** pour la liste de mes disques préférés sortis en 2024)
 - **Discovery** : Je découvre parfois des disques longtemps après leur sortie. J'étais parfois passé à côté d'un artiste ou je l'avais volontairement mis de côté sous quelques prétextes futiles, et je m'aperçois que ces disques me plaisent beaucoup et viennent prendre place sur une étagère de ma discothèque pour venir tourner régulièrement sur ma platine. Pour ces disques particuliers, je colle l'étiquette "Discovery".
-- **Select** : J'écoute quelques albums au fur et à mesure de leur sortie, en fonction de l'humeur du moment, de recommandations diverses ou simplement parce que c'est un artiste que j'apprécie. Si cet album me plaît, que j'y reviens régulièrement, alors un petit étiquette "Select" vient l'identifier.
+- **Select** : J'écoute quelques albums au fur et à mesure de leur sortie, en fonction de l'humeur du moment, de recommandations diverses ou simplement parce que c'est un artiste que j'apprécie. Si cet album me plaît, que j'y reviens régulièrement, alors une petite étiquette "Select" vient l'identifier.
 
 Pour chaque disque, j'ajoute un petit commentaire pour contextualiser et expliquer rapidement la présence de ce disque dans la sélection. Mais n'étant pas très à l'aise avec l'écriture, je resterai sur des commentaires plutôt succincts. J'espère cependant que ceux qui se promèneront dans ces sélections musicales y feront quelques découvertes.
 

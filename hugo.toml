@@ -94,7 +94,7 @@ type = "categories"
 type = "tag-cloud"
 
   [params.widgets.homepage.params]
-  limit = 10
+  limit = 20
 
 [[params.widgets.homepage]]
 type = "archives"
