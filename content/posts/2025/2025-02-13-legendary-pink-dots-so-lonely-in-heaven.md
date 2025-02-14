@@ -1,6 +1,6 @@
 +++
 date = '2025-02-13T18:00:03+01:00'
-draft = true
+draft = false
 title = 'The Legendary Pink Dots - So Lonely In Heaven - 2025'
 categories = ['Select']
 tags = ['Dark Ambient','Psychedelic Rock','Experimental']
