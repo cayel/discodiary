@@ -3,7 +3,7 @@ date = '2025-02-16T18:30:17+01:00'
 draft = false
 title = 'Big Black - Atomizer - 1986'
 categories = ['Discovery']
-tags = [' Noise Rock', 'Post Punk']
+tags = ['Noise Rock', 'Post Punk']
 image = '/images/big-black-atomizer.jpg'
 +++
 <img src="./images/big-black-atomizer.jpg" width="200"/>
