@@ -181,4 +181,4 @@ tabWidth = 4
 
 [services]
   [services.googleAnalytics]
-    #id = 'G-KGQNDG4JYS'
+    id = 'G-KGQNDG4JYS'
