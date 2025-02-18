@@ -1,0 +1,19 @@
+{{ define "body-class" }}template-gallery{{ end }}
+{{ define "head" }}
+{{ end }}
+{{ define "main" }}
+<header>
+    <h2 class="section-title">Gallery</h2>
+</header>
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+{{ $filtered := ($pages | intersect $notHidden) }}
+
+<div class="article-list--compact">
+    {{ range $filtered }}
+        {{ partial "gallery-list/compact" . }}
+    {{ end }}
+</div>
+
+{{ partialCached "footer/footer" . }}
+{{ end }}
