@@ -4,7 +4,7 @@ draft = false
 title = 'Psychic TV - A Pagan Day - 1984'
 categories = [ 'Discovery']
 tags = ['Dark Folk', 'New Wave', 'Experimental']
-image = './images/psychic-tv-pagan-day.jpg'
+image = '/images/psychic-tv-pagan-day.jpg'
 +++
 <img src="./images/psychic-tv-pagan-day.jpg" width="200"/>
 
