@@ -4,7 +4,6 @@ slug: "gallery"
 layout: "gallery"
 outputs:
     - html
-    - json
 menu:
     main:
         weight: -87
