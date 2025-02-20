@@ -1,5 +1,5 @@
 ---
-title: About
+title: A Propos
 description: Toute la musique que j'aime !
 date: '2024-12-31'
 menu:
@@ -23,4 +23,3 @@ Pour organiser tout cela, les disques sont enregistrés dans des catégories pr�
 Pour chaque disque, j'ajoute un petit commentaire pour contextualiser et expliquer rapidement la présence de ce disque dans la sélection. Mais n'étant pas très à l'aise avec l'écriture, je resterai sur des commentaires plutôt succincts. J'espère cependant que ceux qui se promèneront dans ces sélections musicales y feront quelques découvertes.
 
 Ah oui, j'allais oublier ! J'ai une petite manie... J'accorde beaucoup d'importance aux albums studios. Donc, dans ces sélections, on retrouve principalement des albums studios. Mais je ne m'interdis pas de faire quelques exceptions. On verra ...
-
