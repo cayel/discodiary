@@ -1,4 +1,5 @@
 languageCode = 'fr'
+defaultContentLanguage = 'fr'
 title = 'Disco Diary'
 theme = 'hugo-theme-stack'
 enableRobotsTXT = true

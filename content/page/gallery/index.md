@@ -1,5 +1,5 @@
 ---
-title: "Gallery"
+title: "Gallerie"
 slug: "gallery"
 layout: "gallery"
 outputs:

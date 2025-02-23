@@ -2,7 +2,7 @@
 date = '2025-02-09T21:10:03+01:00'
 draft = false
 title = 'Chris Eckman - The Land We Knew The Best - 2025'
-categories = ['Select']
+categories = ['New']
 tags = ['Rock','Folk','Country']
 image = '/images/chris-eckman-the-land-we-knew-the-best.jpg'
 +++
