@@ -4,9 +4,9 @@
         <div class="article-image" style="display: inline-block; margin: 10px;">
             {{ if $image.resource }}
                 {{- $thumbnail := $image.resource.Fill "200x200" -}}
-                <img src="{{ $thumbnail.RelPermalink }}" width="200" height="200" loading="lazy" alt="Featured image of post {{ .Title }}" />
+                <img src="{{ $thumbnail.RelPermalink }}" width="180" height="180" loading="lazy" alt="Featured image of post {{ .Title }}" />
             {{ else }}
-                <img src="{{ $image.permalink }}" width="200" height="200" loading="lazy" alt="Featured image of post {{ .Title }}" />
+                <img src="{{ $image.permalink }}" width="180" height="180" loading="lazy" alt="Featured image of post {{ .Title }}" />
             {{ end }}
         </div>
     {{ end }}
