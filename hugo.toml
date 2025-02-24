@@ -144,6 +144,22 @@ main = [ ]
     #[menu.social.params]
     #icon = "brand-twitter"
 
+[[menu.social]]
+identifier = "rss"
+name = "RSS"
+url = "index.xml"
+
+[menu.social.params]
+icon = "rss"
+
+[[menu.social]]
+identifier = "bluesky"
+name = "Bluesky"
+url = "https://discodiary.bsky.social"
+
+[menu.social.params]
+icon = "bluesky"
+
 [related]
 includeNewer = true
 threshold = 60
