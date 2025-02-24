@@ -15,7 +15,7 @@ page = "/:slug/"
 mainSections = [ "posts" ]
 featuredImageField = "image"
 rssFullContent = true
-favicon = "/img/favicon.ico"
+favicon = "/images/favicon.ico"
 
   [params.footer]
   since = 2025
