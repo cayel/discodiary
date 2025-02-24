@@ -1,3 +1,4 @@
+baseurl = 'https://discodiary.vercel.app'
 languageCode = 'fr'
 defaultContentLanguage = 'fr'
 title = 'Disco Diary'
