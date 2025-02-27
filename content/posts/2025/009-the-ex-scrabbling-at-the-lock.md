@@ -1,10 +1,11 @@
 +++
 date = '2025-02-05T21:10:03+01:00'
 draft = false
-title = 'The Ex + Tom Cora - Scrabbling At The Lock - 2024'
+title = 'The Ex + Tom Cora - Scrabbling At The Lock - 1991'
 categories = ['Discovery']
 tags = ['Avant-Garde','Punk','Art Rock']
 image = '/images/the-ex-scrabbling-at-the-lock.jpg'
+year = 1991
 +++
 
 <img src="/images/the-ex-scrabbling-at-the-lock.jpg" width="200"/>
