@@ -5,7 +5,7 @@ title = 'Heartworms - Glutton For Punishment - 2025'
 categories = ['New']
 tags = ['Rock', 'Post Punk']
 image = '/images/heartworms-glutton-for-punishment.jpg'
-year = 1995
+year = 2025
 +++
 <img src="./images/heartworms-glutton-for-punishment.jpg" width="200"/>
 
@@ -17,6 +17,6 @@ Si je devais classer cet album, je le rangerais dans la catégorie du post-punk,
 
 Ce disque va certainement m'accompagner dans les mois à venir. J'espère pouvoir assister à un concert lors d'une éventuelle tournée en France ou à une apparition dans un festival cet été.
 
-[Discogs](https://www.discogs.com/fr/artist/11743361-Heartworms-4)
+[Discogs](https://www.discogs.com/fr/master/3743853-Heartworms-Glutton-For-Punishment)
 
 {{< spotify type="album" id="2h0EkMbH3XWfdnA1yEzxLT?si=4Qcw_l4QRaOPmd2qlt2gyQ" width="100%" height="250" >}}
